@@ -1,0 +1,14 @@
+.app-img{
+    height: 300px;
+}
+
+/* <div className="row">
+   {appointments.results.map((appointment)=>{
+        <div className="col-3 card-movie-container" >
+       <Appointments key={appointment.id}
+       Fromm={appointment.Fromm} Too={appointment.Too}
+        Ticket_Price={appointment.Ticket_price} day_and_time={appointment.day_and_time}
+        max_num_trav={appointment.max_num_trav} 
+        id={appointment.appointment_id}
+        />
+   </div> */
